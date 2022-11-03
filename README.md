@@ -1,2 +1,3 @@
-# fabrica
-Repositorio para pruebas git
+# Somos Fabrica Digital
+
+El siguiente Repositorio es para realizar pruebas 'git'
